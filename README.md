@@ -78,8 +78,7 @@ initially course projects, they all have the potential for becoming real world a
 
 A small pizza menu UI, utilizing basic react components as well as core features like props conditional rendering ect
 
-![image](https://github.com/ShaAnder/react_portfolio/assets/129494996/54001dc7-3016-4a8d-91ed-f2e9f026a068)
-
+![Screenshot 2023-10-10 153816](https://github.com/ShaAnder/react_portfolio/assets/129494996/21931b63-5621-4e23-bcb4-9312258bc883)
 
 
 [Back To Top](#Portfolio)
