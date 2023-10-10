@@ -74,4 +74,12 @@ initially course projects, they all have the potential for becoming real world a
 
 ### Ultimate React Course 2023
 
+### [React Pizza](https://github.com/ShaAnder/react_pizza)
+
+A small pizza menu UI, utilizing basic react components as well as core features like props conditional rendering ect
+
+![image](https://github.com/ShaAnder/react_portfolio/assets/129494996/54001dc7-3016-4a8d-91ed-f2e9f026a068)
+
+
+
 [Back To Top](#Portfolio)
