@@ -80,7 +80,7 @@ A small pizza menu UI, utilizing basic react components as well as core features
 
 ![Screenshot 2023-10-10 153816](https://github.com/ShaAnder/react_portfolio/assets/129494996/21931b63-5621-4e23-bcb4-9312258bc883)
 
-### [React Far Away](https://github.com/ShaAnder/react_far_away)
+### [Far Away React](https://github.com/ShaAnder/far_away_react)
 
 A small packing todo / item checklist application, users can add items to the checklist, sort and strike them off / delete them as well as clear the list
 
