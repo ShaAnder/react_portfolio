@@ -95,7 +95,7 @@ A small bill splitting application, allows the user to pick a friend, split a bi
 
 [Back To Top](#Portfolio)
 
-### SECTION 3 - Portfolio Projects
+### SECTION 3 - Portfolio Works
 
 These are projects and apps that I have built 100% solo or as part of a group that I want to use for main portfolio work, while some may be on par or not as in depth as the course work shown above, 
 these are 100% unguided and created soley by me showcasing that I have actually been able to not only understand what I have learnt but practically apply it without assistance
