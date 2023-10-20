@@ -58,13 +58,13 @@ showcase that I am job ready, They will be split between raw JS / React JS / Nod
 
 ## Portfolio Projects
 
-### SECTION 1 - Misc Projects
+### SECTION 1 - MISC PROJECT
 
 Directory leading to Small and simple programs and scripts I have written in my free time, these range from stop watches to calculators or even just small scripts to make code easier to setup / use!
 
 #### [MISC PROJECTS](https://github.com/ShaAnder/Misc_Portfolio_Projects)
 
-### SECTION 2 - Course Projects 
+### SECTION 2 - COURSE PROJECTS 
 
 These are projects and apps from the course work I have completed, while I have completed course on a myriad of topics including python php and HTML / CSS ect this is primarily contained
 to my React course work and projects. 
@@ -95,7 +95,7 @@ A small bill splitting application, allows the user to pick a friend, split a bi
 
 [Back To Top](#Portfolio)
 
-### SECTION 3 - Portfolio Works
+### SECTION 3 - PORTFOLIO WORKS
 
 These are projects and apps that I have built 100% solo or as part of a group that I want to use for main portfolio work, while some may be on par or not as in depth as the course work shown above, 
 these are 100% unguided and created soley by me showcasing that I have actually been able to not only understand what I have learnt but practically apply it without assistance
