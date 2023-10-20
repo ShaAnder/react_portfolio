@@ -58,7 +58,7 @@ showcase that I am job ready, They will be split between raw JS / React JS / Nod
 
 ## Portfolio Projects
 
-### SECTION 1 - MISC PROJECT
+### SECTION 1 - MISC PROJECTS
 
 Directory leading to Small and simple programs and scripts I have written in my free time, these range from stop watches to calculators or even just small scripts to make code easier to setup / use!
 
