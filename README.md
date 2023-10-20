@@ -14,6 +14,7 @@
    - [SECTION 2 - COURSE PROJECTS](#section-2---course-projects)
       - [Ultimate React Course 2023](#ultimate-react-course-2023)
    - [SECTION 3 - PORTFOLIO WORKS](#section-3---portfolio-works)
+        - [React TODO List](#react-todo-list)
 
 
 ## Document Introduction
@@ -86,4 +87,24 @@ A small packing todo / item checklist application, users can add items to the ch
 
 ![image](https://github.com/ShaAnder/react_portfolio/assets/129494996/73bd79d1-0ec0-46d3-ade3-095db985b3bf)
 
+### [Bill Split React](https://github.com/ShaAnder/react_bill_split)
+
+A small bill splitting application, allows the user to pick a friend, split a bill and keep track of owed / owes!
+
+![image](https://github.com/ShaAnder/react_portfolio/assets/129494996/58b2ddaa-fc85-4361-89f4-35191a2726d6)
+
 [Back To Top](#Portfolio)
+
+### SECTION 3 - Portfolio Projects
+
+These are projects and apps that I have built 100% solo or as part of a group that I want to use for main portfolio work, while some may be on par or not as in depth as the course work shown above, 
+these are 100% unguided and created soley by me showcasing that I have actually been able to not only understand what I have learnt but practically apply it without assistance
+
+### [React TODO List](https://github.com/ShaAnder/react_todo_list)
+
+React app that allows a user to create a todo list, track tasks, sort, clear and delete them as needed. Also includes a task tracker with how many left to do on a day!
+
+- Current app progress: 0.1 - User can now add tasks to the application
+
+![image](https://github.com/ShaAnder/react_portfolio/assets/129494996/01dbfddf-63a6-4c3f-80a7-3cea74851e75)
+
