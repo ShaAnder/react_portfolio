@@ -83,19 +83,19 @@ initially course projects, they all have the potential for becoming real world a
 
 A small pizza menu UI, utilizing basic react components as well as core features like props conditional rendering ect
 
-<img src="https://github.com/ShaAnder/react_portfolio/assets/129494996/21931b63-5621-4e23-bcb4-9312258bc883" alt="image" width="300" height="auto">
+<img src="https://github.com/ShaAnder/react_portfolio/assets/129494996/21931b63-5621-4e23-bcb4-9312258bc883" alt="image" width="600" height="auto">
 
 ### [Far Away React](https://github.com/ShaAnder/far_away_react)
 
 A small packing todo / item checklist application, users can add items to the checklist, sort and strike them off / delete them as well as clear the list
 
-<img src="https://github.com/ShaAnder/react_portfolio/assets/129494996/73bd79d1-0ec0-46d3-ade3-095db985b3bf" alt="image" width="300" height="auto">
+<img src="https://github.com/ShaAnder/react_portfolio/assets/129494996/73bd79d1-0ec0-46d3-ade3-095db985b3bf" alt="image" width="600" height="auto">
 
 ### [Bill Split React](https://github.com/ShaAnder/react_bill_split)
 
 A small bill splitting application, allows the user to pick a friend, split a bill and keep track of owed / owes!
 
-<img src="https://github.com/ShaAnder/react_portfolio/assets/129494996/58b2ddaa-fc85-4361-89f4-35191a2726d6" alt="image" width="300" height="auto">
+<img src="https://github.com/ShaAnder/react_portfolio/assets/129494996/58b2ddaa-fc85-4361-89f4-35191a2726d6" alt="image" width="600" height="auto">
 
 [Back To Top](#Portfolio)
 
@@ -110,8 +110,7 @@ React app that allows a user to create a todo list, track tasks, sort, clear and
 
 - Current app progress: 0.2 Allows for addition of entries, clearing of entries, deletion of single entries and marking entries complete (almost feature complete)
 
-<img src="https://github.com/ShaAnder/react_portfolio/assets/129494996/01dbfddf-63a6-4c3f-80a7-3cea74851e75" alt="image" width="300" height="auto">
-
+<img src="https://github.com/ShaAnder/react_portfolio/assets/129494996/01dbfddf-63a6-4c3f-80a7-3cea74851e75" alt="image" width="600" height="auto">
 
 ### [Address Book React] (https://github.com/ShaAnder/address_book_react)
 
