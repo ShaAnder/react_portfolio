@@ -104,7 +104,7 @@ these are 100% unguided and created soley by me showcasing that I have actually 
 
 React app that allows a user to create a todo list, track tasks, sort, clear and delete them as needed. Also includes a task tracker with how many left to do on a day!
 
-- Current app progress: 0.1 - User can now add tasks to the application
+- Current app progress: 0.2 Allows for addition of entries, clearing of entries, deletion of single entries and marking entries complete (almost feature complete)
 
 ![image](https://github.com/ShaAnder/react_portfolio/assets/129494996/01dbfddf-63a6-4c3f-80a7-3cea74851e75)
 
