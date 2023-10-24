@@ -14,7 +14,7 @@
    - [SECTION 2 - COURSE PROJECTS](#section-2---course-projects)
       - [Ultimate React Course 2023](#ultimate-react-course-2023)
    - [SECTION 3 - PORTFOLIO WORKS](#section-3---portfolio-works)
-        - [TODO React ](#todo_react)
+        - [TODO React](#todo_react)
 
 
 ## Document Introduction
