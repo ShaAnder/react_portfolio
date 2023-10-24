@@ -14,7 +14,7 @@
    - [SECTION 2 - COURSE PROJECTS](#section-2---course-projects)
       - [Ultimate React Course 2023](#ultimate-react-course-2023)
    - [SECTION 3 - PORTFOLIO WORKS](#section-3---portfolio-works)
-        - [TODO React](#todo_react)
+        - [TODO React](#todo-react)
 
 
 ## Document Introduction
@@ -108,3 +108,6 @@ React app that allows a user to create a todo list, track tasks, sort, clear and
 
 ![image](https://github.com/ShaAnder/react_portfolio/assets/129494996/01dbfddf-63a6-4c3f-80a7-3cea74851e75)
 
+### [Address Book React] (https://github.com/ShaAnder/address_book_react)
+
+- Current App Progress: 0.1 Created the visual and static component side of the application
