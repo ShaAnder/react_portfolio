@@ -64,9 +64,11 @@ showcase that I am job ready, They will be split between raw JS / React JS / Nod
 
 ### SECTION 1 - MISC PROJECTS
 
-Directory leading to Small and simple programs and scripts I have written in my free time, these range from stop watches to calculators or even just small scripts to make code easier to setup / use!
+Section for simple projects / code snippets and gists. These are small misc projects that I have built to add to my portfolio or for use in larger projects!
 
-#### [MISC PROJECTS](https://github.com/ShaAnder/Misc_Portfolio_Projects)
+### [Reusable Star Rating Component]https://gist.github.com/ShaAnder/e45561e2c92fd954d5406e66307df8b6
+
+![image](https://github.com/ShaAnder/react_portfolio/assets/129494996/de3ab9f7-b4e1-4e13-b223-2eb94bfe6c2e)
 
 ### SECTION 2 - COURSE PROJECTS 
 
