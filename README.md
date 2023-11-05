@@ -11,6 +11,7 @@
 
 2. [Portfolio Projects](#portfolio-projects)
    - [SECTION 1 - MISC PROJECTS](#section-1---misc-projects)
+      - [Reusable Star Rating Component](#reusable-star-rating-component)
    - [SECTION 2 - COURSE PROJECTS](#section-2---course-projects)
       - [Ultimate React Course 2023](#ultimate-react-course-2023)
            - [React Pizza](#react-pizza)
@@ -66,7 +67,7 @@ showcase that I am job ready, They will be split between raw JS / React JS / Nod
 
 Section for simple projects / code snippets and gists. These are small misc projects that I have built to add to my portfolio or for use in larger projects!
 
-### [Reusable Star Rating Component]https://gist.github.com/ShaAnder/e45561e2c92fd954d5406e66307df8b6
+### [Reusable Star Rating Component](https://gist.github.com/ShaAnder/e45561e2c92fd954d5406e66307df8b6)
 
 ![image](https://github.com/ShaAnder/react_portfolio/assets/129494996/de3ab9f7-b4e1-4e13-b223-2eb94bfe6c2e)
 
