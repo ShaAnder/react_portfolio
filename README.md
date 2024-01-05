@@ -116,11 +116,11 @@ React app that allows a user to create a todo list, track tasks, sort, clear and
 
 <img src="https://github.com/ShaAnder/react_portfolio/assets/129494996/01dbfddf-63a6-4c3f-80a7-3cea74851e75" alt="image" width="600" height="auto">
 
-### [Address Book React] (https://github.com/ShaAnder/address_book_react)
+### [Address Book React](https://github.com/ShaAnder/address_book_react)
 
 - Current App Progress: 0.1 Created the visual and static component side of the application
 
-### [Pokepedia React] (https://github.com/ShaAnder/pokepedia)
+### [Pokepedia React](https://github.com/ShaAnder/pokepedia)
 
 A React app that emulates the pokedex from pokemon.com with a twist. The functionality is largely the same with pokemon selection and information, sorting / searching ect, however I have built it
 in react and as a one page application, removing the transferring the user to a new page with a modal popup window that showcases the pokemons details for the user to click on.
