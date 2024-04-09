@@ -17,6 +17,7 @@
            - [React Pizza](#react-pizza)
            - [Far Away React](#far-away-react)
            - [Bill Split React](#bill-split-react)
+           - [React Popcorn](#react-popcorn)
    - [SECTION 3 - PORTFOLIO WORKS](#section-3---portfolio-works)
 
 
@@ -98,6 +99,12 @@ A small packing todo / item checklist application, users can add items to the ch
 A small bill splitting application, allows the user to pick a friend, split a bill and keep track of owed / owes!
 
 <img src="https://github.com/ShaAnder/react_portfolio/assets/129494996/58b2ddaa-fc85-4361-89f4-35191a2726d6" alt="image" width="600" height="auto">
+
+### [Bill Popcorn](https://github.com/ShaAnder/react_popcorn)
+
+A small react movie tracking app, allows the user to track movies they enjoy and save them to a list / also allows for rating said movie
+
+<img src="https://github.com/ShaAnder/react_portfolio/assets/129494996/f69117b3-a8c4-496e-88f2-4cf25cd0db6b" alt="image" width="600" height="auto">
 
 [Back To Top](#Portfolio)
 
