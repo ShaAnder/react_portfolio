@@ -105,26 +105,4 @@ A small bill splitting application, allows the user to pick a friend, split a bi
 
 ### SECTION 3 - PORTFOLIO WORKS
 
-These are projects and apps that I have built 100% solo or as part of a group that I want to use for main portfolio work, while some may be on par or not as in depth as the course work shown above, 
-these are 100% unguided and created soley by me showcasing that I have actually been able to not only understand what I have learnt but practically apply it without assistance
 
-### [TODO React](https://github.com/ShaAnder/react_todo_list)
-
-React app that allows a user to create a todo list, track tasks, sort, clear and delete them as needed. Also includes a task tracker with how many left to do on a day!
-
-- Current app progress: 0.2 Allows for addition of entries, clearing of entries, deletion of single entries and marking entries complete (almost feature complete)
-
-<img src="https://github.com/ShaAnder/react_portfolio/assets/129494996/01dbfddf-63a6-4c3f-80a7-3cea74851e75" alt="image" width="600" height="auto">
-
-### [Address Book React](https://github.com/ShaAnder/address_book_react)
-
-- Current App Progress: 0.1 Created the visual and static component side of the application
-
-### [Pokepedia React](https://github.com/ShaAnder/pokepedia)
-
-A React app that emulates the pokedex from pokemon.com with a twist. The functionality is largely the same with pokemon selection and information, sorting / searching ect, however I have built it
-in react and as a one page application, removing the transferring the user to a new page with a modal popup window that showcases the pokemons details for the user to click on.
-
-- current app progress 0.2 created basic visual layout and added state based sorting, and show more and randomization features
-
-<img src="https://github.com/ShaAnder/react_portfolio/assets/129494996/1a1f7521-e2fa-4bae-b5f2-b3edfd217fbc" alt="image" width="600" height="auto">
