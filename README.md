@@ -14,6 +14,7 @@
       - [1A CODE SNIPPETS](#1a-code-snippets)
          - [Reusable Star Rating Component](#reusable-star-rating-component)
       - [1B SMALL PROJECTS](#1b-small-projects)
+         - [Get Geolocation](#get-geolocation)
    
    - [SECTION 2 - COURSE PROJECTS](#section-2---course-projects)
       - [Ultimate React Course 2023](#ultimate-react-course-2023)
