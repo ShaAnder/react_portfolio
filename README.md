@@ -18,9 +18,7 @@
            - [Far Away React](#far-away-react)
            - [Bill Split React](#bill-split-react)
    - [SECTION 3 - PORTFOLIO WORKS](#section-3---portfolio-works)
-        - [TODO React](#todo-react)
-        - [Address Book React](#address-book-react)
-        - [Pokepedia React](#pokepedia-react)
+
 
 
 ## Document Introduction
